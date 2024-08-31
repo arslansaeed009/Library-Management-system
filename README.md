@@ -41,4 +41,4 @@
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to suggest improvements.
 ## Contact
-For any questions or suggestions, please contact arslan1790@gmail.com.
+For any questions or suggestions, please contact arslansaeed1790@gmail.com.
